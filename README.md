@@ -13,15 +13,15 @@ Steam-Games-Idle is Node.js based script for idling playtime for steam games wit
 </p>
 
 <p align= "center">
-  <img src="https://img.shields.io/github/package-json/v/notdezzi/Steam-Games-Idle.svg" alt="GitHub package version">
+  <img src="https://img.shields.io/github/package-json/v/notdezzi/Steam-Game-Idle.svg" alt="GitHub package version">
   </a>
-    <a href="https://github.com/notdezzi/Steam-Games-Idle/network">
-  <img src="https://img.shields.io/github/forks/notdezzi/Steam-Games-Idle.svg?style=plastic" alt="GitHub forks">
+    <a href="https://github.com/notdezzi/Steam-Game-Idle/network">
+  <img src="https://img.shields.io/github/forks/notdezzi/Steam-Game-Idle.svg?style=plastic" alt="GitHub forks">
   </a>
-    <a href="https://github.com/notdezzi/Steam-Games-Idle/stargazers">
-  <img src="https://img.shields.io/github/stars/notdezzi/Steam-Games-Idle.svg?style=plastic" alt="GitHub stars">
+    <a href="https://github.com/notdezzi/Steam-Game-Idle/stargazers">
+  <img src="https://img.shields.io/github/stars/notdezzi/Steam-Game-Idle.svg?style=plastic" alt="GitHub stars">
   </a>
-    <a href="https://raw.githubusercontent.com/notdezzi/Steam-Games-Idle/master/LICENSE">
+    <a href="https://raw.githubusercontent.com/notdezzi/Steam-Game-Idle/master/LICENSE">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=plastic" alt="GitHub license">
     <a href="https://en.wikipedia.org/wiki/Node.js">
   <img src="https://img.shields.io/badge/Uses-Node.js-green" alt="Language">
